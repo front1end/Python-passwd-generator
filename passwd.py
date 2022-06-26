@@ -2,7 +2,7 @@ import random
 
 password_length = 38
 
-characters = "/a@fBrpBATL!6^ggGa;F!\5YS2q@:>"
+characters = "any-symbol"
 
 password = ""   
 
